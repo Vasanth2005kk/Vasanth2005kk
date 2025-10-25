@@ -1,0 +1,12 @@
+def runtime(func):
+    def display():
+        message = func()           # Call the original function
+        length = len(message)      # Find the length of the string
+        return f"{message} → length {length}"
+    return display
+
+@runtime
+def username():
+    return "welcome to dharshini"
+
+print(username())
