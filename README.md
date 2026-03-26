@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Vasanth
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=40&center=false&vCenter=true&width=600&lines=Hi+There+👋,+I'm+Vasanth;Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
+---
 💻 I am a Full Stack Developer at **VGLUG Foundation**, where I work on real-world web applications and contribute to meaningful projects.
 
 🤝 I am also a Volunteer Member at VGLUG, actively supporting open-source initiatives and community-driven development.
@@ -31,10 +32,15 @@
 ---
 
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasanth2005kk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Vasanth2005kk\&theme=highcontrast\&hide_border=true\&include_all_commits=true\&count_private=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanth2005kk&theme=highcontrast&hide_border=true" height="150"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vasanth2005kk\&theme=highcontrast\&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth2005kk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth2005kk\&theme=highcontrast\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanth2005kk&theme=github-compact&hide_border=true&area=true&color=#000000&line=FB8C00&point=C2CC13" />
+</p>
 
