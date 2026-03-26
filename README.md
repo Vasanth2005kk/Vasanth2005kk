@@ -32,12 +32,13 @@
 ---
 
 # 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasanth2005kk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vasanth2005kk&show_icons=true&theme=highcontrast&hide_border=true" height="150"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanth2005kk&theme=highcontrast&hide_border=true" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth2005kk&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vasanth2005kk&theme=highcontrast&hide_border=true&layout=compact" height="150"/>
 </p>
 
 <p align="center">
