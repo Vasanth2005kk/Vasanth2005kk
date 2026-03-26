@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&font=Fira+Code&weight=700&size=40&center=false&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Vasanth;Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&font=Fira+Code&weight=700&size=40&center=false&vCenter=true&width=900&lines=Hi+There+👋,+I'm+Vasanth+(•_•);Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 💻 I am a Full Stack Developer at **VGLUG Foundation**, where I work on real-world web applications and contribute to meaningful projects.
